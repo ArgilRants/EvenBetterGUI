@@ -1,0 +1,9 @@
+{
+    "condition": "theme.tooltipBackground.dark",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/tooltip/background_color/oled.png",
+        "assets/minecraft/textures/gui/sprites/tooltip/background_color/light.png",
+        "assets/minecraft/textures/gui/sprites/tooltip/background_color/lightish.png",
+        "assets/minecraft/textures/gui/sprites/tooltip/background_color/clear.png"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "condition": "theme.hotbar.lightish",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/slot_dark.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/slot_oled.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/slot_light.png"
+    ]
+}

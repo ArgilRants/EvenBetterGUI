@@ -1,0 +1,8 @@
+{
+    "condition": "theme.hotbar.lightish",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/hud/hotbar_dark/hotbar_dark_offhand_right.png",
+        "assets/minecraft/textures/gui/sprites/hud/hotbar_oled/hotbar_oled_offhand_right.png",
+        "assets/minecraft/textures/gui/sprites/hud/hotbar_light/hotbar_light_offhand_right.png"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "condition": "!evenbetterhud.enchantedArmor & evenbetterhud.armor.iron",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_iron/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_gold/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_diamond/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_netherite/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_chainmail/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/enchanted_leather/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/gold/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/diamond/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/netherite/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/chainmail/armor_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/armors/leather/armor_full.png"
+    ]
+}

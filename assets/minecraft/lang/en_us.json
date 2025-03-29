@@ -1,0 +1,173 @@
+
+{
+    "rpo.evenbettergui": "EvenBetterGUI",
+
+    "rpo.evenbettergui.theme": "Theme",
+    "rpo.evenbettergui.theme.tooltip": "Color settings for GUI, hotbar and more \n §7If settings don't apply correctly reload the pack (This is a problem with Respackopts)",
+
+        "rpo.evenbettergui.theme.gui": "§mGUI Color§r §7[Coming Soon]",
+        "rpo.evenbettergui.theme.gui.tooltip": "In an upcoming version you'll be able to change the color theme of all the GUI to different themes!",
+        "rpo.evenbettergui.theme.gui.comingSoon": "§lComing Soon",
+
+        "rpo.evenbettergui.theme.hotbar": "Hotbar Color",
+        "rpo.evenbettergui.theme.hotbar.tooltip": "Change the color theme of the hotbar & gamemode selector",
+        "rpo.evenbettergui.theme.hotbar.light": "Light",
+        "rpo.evenbettergui.theme.hotbar.lightish": "Lightish [Default]",
+        "rpo.evenbettergui.theme.hotbar.dark": "Dark",
+        "rpo.evenbettergui.theme.hotbar.oled": "Oled [Very Dark]",
+
+        "rpo.evenbettergui.theme.highlight": "Highlight Color",
+        "rpo.evenbettergui.theme.highlight.tooltip": "Change the highlight color (Hotbar selecting, tooltip border, etc.) §4[Animations only work on the hotbar]",
+        "rpo.evenbettergui.theme.highlight.green": "§2Green §f[Default]",
+        "rpo.evenbettergui.theme.highlight.lime": "§aLime",
+        "rpo.evenbettergui.theme.highlight.aqua": "§bAqua §f[Light Blue]",
+        "rpo.evenbettergui.theme.highlight.dark_aqua": "§3Dark Aqua §f[Cyan]",
+        "rpo.evenbettergui.theme.highlight.blue": "§1Blue",
+        "rpo.evenbettergui.theme.highlight.magenta": "§dMagenta",
+        "rpo.evenbettergui.theme.highlight.purple": "§5Purple",
+        "rpo.evenbettergui.theme.highlight.white": "§fWhite",
+        "rpo.evenbettergui.theme.highlight.grey": "§7Grey",
+        "rpo.evenbettergui.theme.highlight.oled": "§0Oled §f[Very Dark]",
+        "rpo.evenbettergui.theme.highlight.red": "§4Red",
+        "rpo.evenbettergui.theme.highlight.gold": "§6Gold",
+        "rpo.evenbettergui.theme.highlight.yellow": "§eYellow",
+        "rpo.evenbettergui.theme.highlight.rainbow_anim": "§cR§6a§ei§an§bb§1o§5w §f[Animated]",
+        "rpo.evenbettergui.theme.highlight.rainbow": "§cR§6a§ei§an§bb§1o§5w §f[Still]",
+        "rpo.evenbettergui.theme.highlight.amethyst_anim": "§5Am§de§5t§dh§5yst §f[Animated]",
+
+        "rpo.evenbettergui.theme.tooltipBackground": "Tooltip Background Color",
+        "rpo.evenbettergui.theme.tooltipBackground.tooltip": "Change the background color of the tooltip",
+
+        "rpo.evenbettergui.theme.tooltipBackground.dark": "Dark [Default]",
+        "rpo.evenbettergui.theme.tooltipBackground.oled": "Oled [Very Dark]",
+        "rpo.evenbettergui.theme.tooltipBackground.light": "Light",
+        "rpo.evenbettergui.theme.tooltipBackground.lightish": "Lightish",
+        "rpo.evenbettergui.theme.tooltipBackground.clear": "Clear",
+
+
+        
+
+
+"rpo.evenbettergui.style": "Style",
+"rpo.evenbettergui.style.tooltip": "Stylistic settings | §7e.g. extra hotbar selectors with more coming soon \n §7If settings don't apply correctly reload the pack (This is a problem with Respackopts)",
+
+    "rpo.evenbettergui.style.hotbarSlot": "Hotbar-Style GUI Slot Highlight §4[1.21.4+]",
+    "rpo.evenbettergui.style.hotbarSlot.tooltip": "Gives the GUI slot highlight the same texture as the hotbar selector. §7(Supports highlight colors) §4[1.21.4+]",
+
+    "rpo.evenbettergui.style.styledSelector": "Extra styles for hotbar selector ring",
+    "rpo.evenbettergui.style.styledSelector.tooltip": "Enable extra styles! §7(Replaces highlight color, tooltip border will use the highlight color)",
+    "rpo.evenbettergui.style.styledSelector.off": "§4Off §f[Default]",
+    "rpo.evenbettergui.style.styledSelector.heart": "§cHeart",
+    "rpo.evenbettergui.style.styledSelector.mossy": "§aMossy",
+
+
+
+"rpo.evenbettergui.evenbetterhud": "EvenBetterHUD",
+"rpo.evenbettergui.evenbetterhud.tooltip": "HUD settings | §7e.g. enchanted armor icons, pride hearts, crosshair, etc. \n §7If settings don't apply correctly reload the pack (This is a problem with Respackopts)",
+
+    "rpo.evenbettergui.evenbetterhud.enabled": "EvenBetterHUD toggle",
+    "rpo.evenbettergui.evenbetterhud.enabled.tooltip": "Enable/Disable EvenBetterHUD §4(Will return hotbar to vanilla)",
+
+    "rpo.evenbettergui.evenbetterhud.armor": "Armor icons",
+    "rpo.evenbettergui.evenbetterhud.armor.tooltip": "Change the armor icons above hearts in the hud",
+        
+    "rpo.evenbettergui.evenbetterhud.armor.iron": "Iron [Default]",
+    "rpo.evenbettergui.evenbetterhud.armor.gold": "Gold",
+    "rpo.evenbettergui.evenbetterhud.armor.diamond": "Diamond",
+    "rpo.evenbettergui.evenbetterhud.armor.netherite": "Netherite",
+    "rpo.evenbettergui.evenbetterhud.armor.chainmail": "Chainmail",
+    "rpo.evenbettergui.evenbetterhud.armor.leather": "Leather",
+
+    "rpo.evenbettergui.evenbetterhud.enchantedArmor": "Enchanted Armor",
+    "rpo.evenbettergui.evenbetterhud.enchantedArmor.tooltip": "Toggle enchanted armor bar §7(Works with any selected armor)",
+
+
+
+
+    "rpo.evenbettergui.evenbetterhud.prideHearts": "Pride hearts",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.tooltip": "Enable & select hearts in the style of pride flags",
+        
+    "rpo.evenbettergui.evenbetterhud.prideHearts.off": "§4Off §f[Default]",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.progress": "Progress",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.lesbian": "Lesbian",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.gay": "Gay",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.bisexual": "Bisexual",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.transgender": "Transgender",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.intersex": "Intersex",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.asexual": "Asexual",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.aromantic": "Aromantic",
+    "rpo.evenbettergui.evenbetterhud.prideHearts.aroace": "Aromatic & Aseuxal",
+
+
+    "rpo.evenbettergui.evenbetterhud.crosshair": "Crosshair",
+    "rpo.evenbettergui.evenbetterhud.crosshair.tooltip": "Change the crosshair",
+
+    "rpo.evenbettergui.evenbetterhud.crosshair.smallish": "Small-ish [Default]",
+    "rpo.evenbettergui.evenbetterhud.crosshair.smaller": "Smaller",
+    "rpo.evenbettergui.evenbetterhud.crosshair.dot": "Dot",
+    "rpo.evenbettergui.evenbetterhud.crosshair.circle": "Circle",
+    "rpo.evenbettergui.evenbetterhud.crosshair.circleDot": "Circle & Dot",
+    "rpo.evenbettergui.evenbetterhud.crosshair.square": "Square",
+    "rpo.evenbettergui.evenbetterhud.crosshair.squareDot": "Square & Dot",
+    "rpo.evenbettergui.evenbetterhud.crosshair.angled": "Angled",
+    "rpo.evenbettergui.evenbetterhud.crosshair.heart": "Heart",
+    "rpo.evenbettergui.evenbetterhud.crosshair.arrow": "Arrow",
+    "rpo.evenbettergui.evenbetterhud.crosshair.vanilla": "§4Vanilla",
+
+    "rpo.evenbettergui.evenbetterhud.hunger": "Hunger Bar",
+    "rpo.evenbettergui.evenbetterhud.hunger.tooltip": "Change what food is displayed in the hunger bar",
+
+    "rpo.evenbettergui.evenbetterhud.hunger.glowBerries": "Glow Berries [Default]",
+    "rpo.evenbettergui.evenbetterhud.hunger.sweetBerries": "Sweet Berries",
+    "rpo.evenbettergui.evenbetterhud.hunger.cookie": "Cookies",
+    "rpo.evenbettergui.evenbetterhud.hunger.cake": "Cakes",
+    
+
+
+
+
+
+
+    
+
+
+
+"rpo.evenbettergui.misc": "Mods & Misc.",
+"rpo.evenbettergui.misc.tooltip": "Mod specific options | §7e.g. OptiGUI toggles, mod support toggles and misc  \n §7If settings don't apply correctly reload the pack (This is a problem with Respackopts)",
+
+    "rpo.evenbettergui.misc.optigui":  "OptiGUI Support",
+    "rpo.evenbettergui.misc.optigui.tooltip":  "Toggle OptiGUI support (E.g. Colored Shulker Box GUIs) §4[Requires OptiGUI]",
+
+    "rpo.evenbettergui.misc.modmenu":  "ModMenu Support",
+    "rpo.evenbettergui.misc.modmenu.tooltip":  "Toggle ModMenu support §4[Requires ModMenu]",
+
+    "rpo.evenbettergui.misc.axiom":  "Axiom Support",
+    "rpo.evenbettergui.misc.axiom.tooltip":  "Toggle Axiom support §4[Requires Axiom]",
+
+    "rpo.evenbettergui.misc.flashback":  "Flashback Support",
+    "rpo.evenbettergui.misc.flashback.tooltip":  "Toggle Flashback support §4[Requires Flashback]",
+
+    "rpo.evenbettergui.misc.appleskin":  "AppleSkin Support",
+    "rpo.evenbettergui.misc.appleskin.tooltip":  "Toggle AppleSkin support §4[Requires AppleSkin]",
+
+    "rpo.evenbettergui.misc.simpleVoiceChat":  "Simple Voice Chat Support",
+    "rpo.evenbettergui.misc.simpleVoiceChat.tooltip":  "Toggle Simple Voice Chat support §4[Requires Simple Voice Chat]",
+
+    "rpo.evenbettergui.misc.customShulkerbox":  "Custom Shulker Box GUI",
+    "rpo.evenbettergui.misc.customShulkerbox.tooltip":  "Toggle Custom Shulker Box GUIs §4[Requires OptiGUI & OptiGUI Support set to True]",
+
+    "rpo.evenbettergui.misc.customEnderchest":  "Custom Ender Chest GUI",
+    "rpo.evenbettergui.misc.customEnderchest.tooltip":  "Toggle Custom Ender Chest GUI §4[Requires OptiGUI & OptiGUI Support set to True]",
+
+    "rpo.evenbettergui.misc.customChest":  "Custom Chest GUI",
+    "rpo.evenbettergui.misc.customChest.tooltip":  "Toggle Custom Chest GUI §4[Requires OptiGUI & OptiGUI Support set to True]",
+
+    "rpo.evenbettergui.misc.customBarrel":  "Custom Barrel GUI",
+    "rpo.evenbettergui.misc.customBarrel.tooltip":  "Toggle Custom Barrel GUI §4[Requires OptiGUI & OptiGUI Support set to True]"
+
+
+
+
+
+    
+}

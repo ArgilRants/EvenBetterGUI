@@ -1,0 +1,15 @@
+{
+    "condition": "evenbetterhud.crosshair.smallish",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/smaller/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/dot/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/circle/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/circle_dot/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/square/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/square_dot/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/angled/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/heart/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/arrow/crosshair.png",
+        "assets/minecraft/textures/gui/sprites/hud/crosshairs/vanilla/crosshair.png"
+    ]
+}

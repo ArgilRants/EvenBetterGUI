@@ -1,0 +1,8 @@
+{
+    "condition": "evenbetterhud.hunger.glowBerries",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/hud/foods/sweet_berries/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cookies/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cakes/food_full.png"
+    ]
+}

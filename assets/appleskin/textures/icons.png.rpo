@@ -1,0 +1,8 @@
+{
+    "condition": "evenbetterhud.hunger.glowBerries",
+    fallbacks: [
+        "assets/appleskin/textures/foods/sweet_berries/icons.png",
+        "assets/appleskin/textures/foods/cookies/icons.png",
+        "assets/appleskin/textures/foods/cakes/icons.png"
+    ]
+}

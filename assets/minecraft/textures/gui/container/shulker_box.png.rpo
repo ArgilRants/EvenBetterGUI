@@ -1,0 +1,4 @@
+{
+  "condition": "!misc.optigui | !misc.customShulkerbox",
+  fallback: "assets/minecraft/textures/gui/container/shulker_box_optigui.png"
+}

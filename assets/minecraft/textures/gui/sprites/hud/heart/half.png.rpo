@@ -1,0 +1,14 @@
+{
+    "condition": "evenbetterhud.prideHearts.off",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/progress/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/lesbian/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/gay/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/bisexual/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/transgender/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/intersex/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/asexual/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/aromantic/half.png",
+        "assets/minecraft/textures/gui/sprites/hud/heart/pride_hearts/aroace/half.png"
+    ]
+}

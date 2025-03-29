@@ -1,0 +1,20 @@
+{
+    "condition": "theme.highlight.green",
+    fallbacks: [
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/lime.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/aqua.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/dark_aqua.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/blue.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/magenta.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/purple.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/white.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/grey.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/oled.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/red.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/gold.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/yellow.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/rainbow_anim.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/rainbow.png",
+        "assets/minecraft/textures/gui/sprites/gamemode_switcher/selection_color/amethyst_anim.png"
+    ]
+}
