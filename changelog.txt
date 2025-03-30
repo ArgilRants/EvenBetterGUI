@@ -1,41 +1,49 @@
-EvenBetterGUI Version 1.0.0 - for 1.20.4-1.21.5 [29/03/2025]
-Description: Initial release of the pack. Supports options like theme colors through Respackopts [Mod] and supports currently 6 mods!
+EvenBetterGUI Version 1.0.1 - for 1.20.4-1.21.5 [30/03/2025]
+Description: Fixes texts in respackopts screen.
 
-Detail change log for version 1.0.0: 
-[Vanilla Changes]
-  - Changed all vanilla GUI textures & sprites
-    - Added options for hotbar theme colors through Respackopts [Mod]
-    - Added options for highlight colors (Hotbar selector and more) through Respackopts [Mod]
-    - Added options for tooltip background through Respackopts [Mod]
-    - Added Hotbar-style gui slot highlight option for 1.21.4+ clients only through Respackopts [Mod]
-    - Added styled hotbar selector options through Respackopts [Mod]
-    - Added EvenBetterHud with options through Respackopts [Mod]
+Detail change log for version 1.0.1: 
+[Fixes]
+  - Removed/Fixed the text in the Respackopts [Mod] config screen saying that you should reload if the settings don't apply correctly. 
+    - Instead if you experience that problem please make an issue with your mod list at https://github.com/ArgilRants/EvenBetterGUI/issues
+    - If you are using ModernFix [Mod] please disable `mixin.perf.dedicated_reload_executor` in the config
+  - Changed the subtitles in the option catagories to be more similar!
+  - Fixed some mistakes in the tooltips and option names!
+  
 
-[Mod Changes]
-  - OptiGUI [Mod] support
-    - Added toggle for OptiGUI support through Respackopts [Mod]
-    - Added custom shulker box GUIs
-      - Added toggle for custom shulker box GUIs through Respackopts [Mod]
-    - Added custom ender chest GUI
-      - Added toggle for custom ender chest GUI through Respackopts [Mod]
-    - Added custom barrel GUI
-      - Added toggle for custom barrel GUI through Respackopts [Mod]
+[Previous Versions: 1.0.0]
+  Detail change log for version 1.0.0: 
+  [Vanilla Changes]
+    - Changed all vanilla GUI textures & sprites
+      - Added options for hotbar theme colors through Respackopts [Mod]
+      - Added options for highlight colors (Hotbar selector and more) through Respackopts [Mod]
+      - Added options for tooltip background through Respackopts [Mod]
+      - Added Hotbar-style gui slot highlight option for 1.21.4+ clients only through Respackopts [Mod]
+      - Added styled hotbar selector options through Respackopts [Mod]
+      - Added EvenBetterHud with options through Respackopts [Mod]
 
-  - ModMenu [Mod] support
-    - Added toggle for ModMenu support through Respackopts [Mod]
+  [Mod Changes]
+    - OptiGUI [Mod] support
+      - Added toggle for OptiGUI support through Respackopts [Mod]
+      - Added custom shulker box GUIs
+        - Added toggle for custom shulker box GUIs through Respackopts [Mod]
+      - Added custom ender chest GUI
+        - Added toggle for custom ender chest GUI through Respackopts [Mod]
+      - Added custom barrel GUI
+        - Added toggle for custom barrel GUI through Respackopts [Mod]
 
-  - Axiom [Mod] support
-    - Added toggle for Axiom support through Respackopts [Mod]
-    - Supports new Axiom features like the color picker and gradient helper
+    - ModMenu [Mod] support
+      - Added toggle for ModMenu support through Respackopts [Mod]
 
-  - Flashback [Mod] support
-    - Added toggle for Flashback support through Respackopts [Mod]
+    - Axiom [Mod] support
+      - Added toggle for Axiom support through Respackopts [Mod]
+      - Supports new Axiom features like the color picker and gradient helper
 
-  - AppleSkin [Mod] support
-    - Added toggle for AppleSkin support through Respackopts [Mod]
-    - Supports all different selected food types for the hunger bar
+    - Flashback [Mod] support
+      - Added toggle for Flashback support through Respackopts [Mod]
 
-  - Simple Voice Chat [Mod] support
-    - Added toggle for Simple Voice Chat support through Respackopts [Mod]
+    - AppleSkin [Mod] support
+      - Added toggle for AppleSkin support through Respackopts [Mod]
+      - Supports all different selected food types for the hunger bar
 
-[Previous Versions: None]
+    - Simple Voice Chat [Mod] support
+      - Added toggle for Simple Voice Chat support through Respackopts [Mod]
