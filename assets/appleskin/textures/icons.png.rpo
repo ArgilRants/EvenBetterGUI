@@ -3,6 +3,11 @@
     fallbacks: [
         "assets/appleskin/textures/foods/sweet_berries/icons.png",
         "assets/appleskin/textures/foods/cookies/icons.png",
-        "assets/appleskin/textures/foods/cakes/icons.png"
+        "assets/appleskin/textures/foods/cakes/icons.png",
+        "assets/appleskin/textures/foods/apple/icons.png",
+        "assets/appleskin/textures/foods/golden_apple/icons.png",
+        "assets/appleskin/textures/foods/god_apple/icons.png",
+        "assets/appleskin/textures/foods/tropical_fish/icons.png",
+        "assets/appleskin/textures/foods/clay_balls/icons.png"
     ]
 }

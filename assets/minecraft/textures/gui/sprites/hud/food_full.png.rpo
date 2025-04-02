@@ -3,6 +3,11 @@
     fallbacks: [
         "assets/minecraft/textures/gui/sprites/hud/foods/sweet_berries/food_full.png",
         "assets/minecraft/textures/gui/sprites/hud/foods/cookies/food_full.png",
-        "assets/minecraft/textures/gui/sprites/hud/foods/cakes/food_full.png"
+        "assets/minecraft/textures/gui/sprites/hud/foods/cakes/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/apple/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/golden_apple/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/god_apple/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/tropical_fish/food_full.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/clay_balls/food_full.png"
     ]
 }

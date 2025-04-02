@@ -1,0 +1,4 @@
+{
+    condition: "!evenbetterhud.rainbowXP",
+    fallback: "assets/minecraft/textures/gui/sprites/hud/rainbow_xp_bar.png"
+}

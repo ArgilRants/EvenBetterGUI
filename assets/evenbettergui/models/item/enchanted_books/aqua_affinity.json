@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures":
+    {
+		"layer0": "evenbettergui:item/enchanted_books/aqua_affinity"
+	},
+	"gui_light": "front",
+	"display": {}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evenbettergui:item/fish_buckets/axolotl_blue_adult"
+  }
+}

@@ -6,12 +6,13 @@
     'theme': {
       'gui': ["comingSoon"],
       'hotbar': ["lightish", "dark", "oled", "light"],
-      'highlight': ["green", "lime", "aqua", "dark_aqua", "blue", "magenta", "purple", "white", "grey", "oled", "red", "gold", "yellow", "rainbow_anim", "rainbow", "amethyst_anim"],
+      'highlight': ["green", "lime", "aqua", "darkAqua", "blue", "magenta", "purple", "white", "grey", "oled", "red", "gold", "yellow", "rainbowAnim", "rainbow", "amethystAnim"],
       'tooltipBackground': ["dark", "oled", "light", "lightish", "clear"]
     },
     'style': {
       'hotbarSlot': false,
-      'styledSelector': ["off", "heart", "mossy"]
+      'fishBuckets': false,
+      'enchantedBooks': false
     },
     'evenbetterhud': {
       'enabled': true,
@@ -19,7 +20,8 @@
       'enchantedArmor': false,
       'prideHearts': ["off", "progress", "lesbian", "gay", "bisexual", "transgender", "intersex", "asexual", "aromantic", "aroace"],
       'crosshair': ["smallish", "smaller", "dot", "circle", "circleDot", "square", "squareDot", "angled", "heart", "arrow", "vanilla"],
-      'hunger': ["glowBerries", "sweetBerries", "cookie", "cake"]
+      'hunger': ["glowBerries", "sweetBerries", "cookie", "cake", "apple", "goldenApple", "godApple", "tropicalFish", "clayBalls"],
+      'rainbowXP': false
     },
     'misc':{
       'optigui': true,

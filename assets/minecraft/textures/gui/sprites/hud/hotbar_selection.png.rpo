@@ -1,8 +1,6 @@
 {
-    "condition": "theme.highlight.green & style.styledSelector.off",
+    "condition": "theme.highlight.green",
     fallbacks: [
-        "assets/minecraft/textures/gui/sprites/hud/selection_color/heart.png",
-        "assets/minecraft/textures/gui/sprites/hud/selection_color/mossy.png",
         "assets/minecraft/textures/gui/sprites/hud/selection_color/lime.png",
         "assets/minecraft/textures/gui/sprites/hud/selection_color/aqua.png",
         "assets/minecraft/textures/gui/sprites/hud/selection_color/dark_aqua.png",

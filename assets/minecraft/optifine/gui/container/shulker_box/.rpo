@@ -1,3 +1,3 @@
 {
-  "condition": "misc.optigui & misc.customShulkerbox"
+  "condition": "misc.customShulkerbox"
 }

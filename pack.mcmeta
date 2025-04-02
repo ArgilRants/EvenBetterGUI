@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 29,
-    "supported_formats": {"min_inclusive": 29, "max_inclusive": 99},
-    "description": "§bEBG §7• §f(§7v§a1.0.1§f) §7• §f[§21.20.4+§f] \n§7By §6@ArgilRants §7• §fargil.dev"
+    "supported_formats": {"min_inclusive": 22, "max_inclusive": 99},
+    "description": "§bEBG §7• §f(§7v§a1.1.0§f) §7• §f[§21.20.4+§f] \n§7By §6@ArgilRants §7• §fargil.dev"
   }
 }

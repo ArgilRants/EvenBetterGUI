@@ -21,7 +21,7 @@
         "rpo.evenbettergui.theme.highlight.green": "§2Green §f[Default]",
         "rpo.evenbettergui.theme.highlight.lime": "§aLime",
         "rpo.evenbettergui.theme.highlight.aqua": "§bAqua §f[Light Blue]",
-        "rpo.evenbettergui.theme.highlight.dark_aqua": "§3Dark Aqua §f[Cyan]",
+        "rpo.evenbettergui.theme.highlight.darkAqua": "§3Dark Aqua §f[Cyan]",
         "rpo.evenbettergui.theme.highlight.blue": "§1Blue",
         "rpo.evenbettergui.theme.highlight.magenta": "§dMagenta",
         "rpo.evenbettergui.theme.highlight.purple": "§5Purple",
@@ -31,9 +31,9 @@
         "rpo.evenbettergui.theme.highlight.red": "§4Red",
         "rpo.evenbettergui.theme.highlight.gold": "§6Gold",
         "rpo.evenbettergui.theme.highlight.yellow": "§eYellow",
-        "rpo.evenbettergui.theme.highlight.rainbow_anim": "§cR§6a§ei§an§bb§1o§5w §f[Animated]",
+        "rpo.evenbettergui.theme.highlight.rainbowAnim": "§cR§6a§ei§an§bb§1o§5w §f[Animated]",
         "rpo.evenbettergui.theme.highlight.rainbow": "§cR§6a§ei§an§bb§1o§5w §f[Still]",
-        "rpo.evenbettergui.theme.highlight.amethyst_anim": "§5Am§de§5t§dh§5yst §f[Animated]",
+        "rpo.evenbettergui.theme.highlight.amethystAnim": "§5Am§de§5t§dh§5yst §f[Animated]",
 
         "rpo.evenbettergui.theme.tooltipBackground": "Tooltip Background Color",
         "rpo.evenbettergui.theme.tooltipBackground.tooltip": "Change the background color of the tooltip",
@@ -55,6 +55,15 @@
         "rpo.evenbettergui.style.styledSelector.off": "§4Off §f[Default]",
         "rpo.evenbettergui.style.styledSelector.heart": "§cHeart",
         "rpo.evenbettergui.style.styledSelector.mossy": "§aMossy",
+
+        "rpo.evenbettergui.style.fishBuckets": "Colored Fish Buckets §4[1.12.5+]",
+        "rpo.evenbettergui.style.fishBuckets.tooltip": "Gives Fish and Axolotls in buckets their color §4[1.12.5+]",
+
+        "rpo.evenbettergui.style.enchantedBooks": "Clearer Enchanted Books §4[1.12.5+]",
+        "rpo.evenbettergui.style.enchantedBooks.tooltip": "Unique textures for all enchantment books §4[1.12.5+]",
+
+
+
 
     "rpo.evenbettergui.evenbetterhud": "EvenBetterHUD",
     "rpo.evenbettergui.evenbetterhud.tooltip": "Change hud elements like the hunger bar, hearts and more!",
@@ -111,6 +120,11 @@
         "rpo.evenbettergui.evenbetterhud.hunger.sweetBerries": "Sweet Berries",
         "rpo.evenbettergui.evenbetterhud.hunger.cookie": "Cookies",
         "rpo.evenbettergui.evenbetterhud.hunger.cake": "Cakes",
+        "rpo.evenbettergui.evenbetterhud.hunger.apple": "Apple",
+        "rpo.evenbettergui.evenbetterhud.hunger.goldenApple": "Golden Apple",
+        "rpo.evenbettergui.evenbetterhud.hunger.godApple": "God Apple [Animated]",
+        "rpo.evenbettergui.evenbetterhud.hunger.tropicalFish": "Tropical Fish",
+        "rpo.evenbettergui.evenbetterhud.hunger.clayBalls": "Clay Balls",
         
 
     "rpo.evenbettergui.misc": "Mods & Misc.",
