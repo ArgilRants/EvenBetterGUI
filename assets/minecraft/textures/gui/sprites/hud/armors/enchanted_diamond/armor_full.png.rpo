@@ -1,3 +1,3 @@
 {
-    "condition": "evenbetterhud.enchantedArmor & evenbetterhud.armor.diamond"
+    "condition": "evenbetterhud.armor.enchantedDiamond"
 }

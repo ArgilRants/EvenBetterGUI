@@ -1,31 +1,50 @@
-EvenBetterGUI Version 1.1.0 - for 1.20.4-1.21.5 [01/04/2025]
-Description: Added colored fish buckets for 1.21.5, added 5 new hunger varients, added custom enchantment books, fixed some heart textures, smoothed some other bugs out.
-Detailed change log for version 1.1.0: 
+EvenBetterGUI Version 1.2.0 - for 1.20.3-1.21.5 [01/04/2025]
+Description: A smaller release focused more on bug fixing, fixing issues around Respackopts, added a custom enchantment glint.
+Detailed change log for version 1.2.0: 
 [Additions]
-  - Added 5 new hunger varients
-    - Added Apple, Golden Apple, Enchanted Golden Apple, Tropical Fish and Clay Balls to the hunger bar selector through Respackopts [Mod]
-    - All also have AppleSkin support
-  - Added colored fish buckets for Axolotls and Tropical fish, for 1.21.5 as it uses new features and needs Respackopts [Mod] so you can enable it
-    - Doesn't support baby axolotls, small or large cod and salmon (yet)
-  - Added jump bar when using horses, donkeys, mules, camels. (Oops just forgot about this I guess)
-  - Added custom enchantment book textures required you to be in 1.21.5 and needs Respackopts [Mod] so you can enable it
-    - Adds 42 unique textures for each enchantment (6 are animated!)
-  - Added social reporting screen textures (another oopsie)
+  - Added custom enchantment glint for icons and entities
 
 [Removals]
-  - Removed styled hotbar selectors [instead im focusing on adding more highlight colors in a future update]
+  - Removed enchanted armor toggle option in respackopts
+    - Now is embedded in the armor selector to make the hud page less cluttered
 
 [Fixes]
-  - Fixed heart textures
-    - Frozen hearts, extra hearts, and vehicle hearts.
-  - Fixed respackopts.json5 having incorrect entry names that were not in camelCase 
-    - This should help solve some unexpected issues
-  - Pack format change: 29 -> 22
-    - This allows people using 1.20.4 to apply the pack without that annoying "this is for older/newer version" screen
-    - This was a mistake that I missed before full release
+  - Due to the pack format change in v1.1.0. 1.20.3 is supported and I forgot about that
+    - 1.20.3 is now the lowest supported version and is shown in pack description
+    - I will NOT be making a backport to earlier versions of the game EVER.
+  - Fixed some wrong translations in the respackopts [mod] config screen
+    - Added rainbow xp tooltip
+    - Turned some things from singular to plural
 
 [Previous Versions]
-  [Last Previous Version: 1.0.1]
+
+  [Last Previous Version: 1.1.0]
+
+    [v1.0.1 - 02/04/2025]
+    Detailed change log for version 1.1.0: 
+    [Additions]
+      - Added 5 new hunger varients
+        - Added Apple, Golden Apple, Enchanted Golden Apple, Tropical Fish and Clay Balls to the hunger bar selector through Respackopts [Mod]
+        - All also have AppleSkin support
+      - Added colored fish buckets for Axolotls and Tropical fish, for 1.21.5 as it uses new features and needs Respackopts [Mod] so you can enable it
+        - Doesn't support baby axolotls, small or large cod and salmon (yet)
+      - Added jump bar when using horses, donkeys, mules, camels. (Oops just forgot about this I guess)
+      - Added custom enchantment book textures required you to be in 1.21.5 and needs Respackopts [Mod] so you can enable it
+        - Adds 42 unique textures for each enchantment (6 are animated!)
+      - Added social reporting screen textures (another oopsie)
+
+    [Removals]
+      - Removed styled hotbar selectors [instead im focusing on adding more highlight colors in a future update]
+
+    [Fixes]
+      - Fixed heart textures
+        - Frozen hearts, extra hearts, and vehicle hearts.
+      - Fixed respackopts.json5 having incorrect entry names that were not in camelCase 
+        - This should help solve some unexpected issues
+      - Pack format change: 29 -> 22
+        - This allows people using 1.20.4 to apply the pack without that annoying "this is for older/newer version" screen
+        - This was a mistake that I missed before full release
+
     [v1.0.1 - 30/03/2025]
     Detailed change log for version 1.0.1: 
     [Fixes]

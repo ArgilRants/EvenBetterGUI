@@ -45,16 +45,13 @@
         "rpo.evenbettergui.theme.tooltipBackground.clear": "Clear",
 
     "rpo.evenbettergui.style": "Style",
-    "rpo.evenbettergui.style.tooltip": "Change the style of the hotbar selector and more!",
+    "rpo.evenbettergui.style.tooltip": "Change the style of the slot highlight, add custom textured enchanted books [1.21.5+ only]",
+
+        "rpo.evenbettergui.style.enchantmentGlint": "Custom Enchantment Glint",
+        "rpo.evenbettergui.style.enchantmentGlint.tooltip": "Updates the enchantment glint to be cleaner and more unobtrusive",
 
         "rpo.evenbettergui.style.hotbarSlot": "Hotbar-Style GUI Slot Highlight §4[1.21.4+]",
         "rpo.evenbettergui.style.hotbarSlot.tooltip": "Gives the GUI slot highlight the same texture as the hotbar selector §7(supports highlight colors) §4[1.21.4+]",
-
-        "rpo.evenbettergui.style.styledSelector": "Extra styles for hotbar selector",
-        "rpo.evenbettergui.style.styledSelector.tooltip": "Enable extra styles §7(replaces highlight color, tooltip border will use the highlight color)",
-        "rpo.evenbettergui.style.styledSelector.off": "§4Off §f[Default]",
-        "rpo.evenbettergui.style.styledSelector.heart": "§cHeart",
-        "rpo.evenbettergui.style.styledSelector.mossy": "§aMossy",
 
         "rpo.evenbettergui.style.fishBuckets": "Colored Fish Buckets §4[1.12.5+]",
         "rpo.evenbettergui.style.fishBuckets.tooltip": "Gives Fish and Axolotls in buckets their color §4[1.12.5+]",
@@ -68,21 +65,22 @@
     "rpo.evenbettergui.evenbetterhud": "EvenBetterHUD",
     "rpo.evenbettergui.evenbetterhud.tooltip": "Change hud elements like the hunger bar, hearts and more!",
 
-        "rpo.evenbettergui.evenbetterhud.enabled": "EvenBetterHUD toggle",
-        "rpo.evenbettergui.evenbetterhud.enabled.tooltip": "Enable/Disable EvenBetterHUD §4(will return hotbar to vanilla)",
-
         "rpo.evenbettergui.evenbetterhud.armor": "Armor icons",
         "rpo.evenbettergui.evenbetterhud.armor.tooltip": "Change the armor icons above hearts in the hud",
             
         "rpo.evenbettergui.evenbetterhud.armor.iron": "Iron [Default]",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedIron": "Iron (Enchanted)",
         "rpo.evenbettergui.evenbetterhud.armor.gold": "Gold",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedGold": "Gold (Enchanted)",
         "rpo.evenbettergui.evenbetterhud.armor.diamond": "Diamond",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedDiamond": "Diamond (Enchanted)",
         "rpo.evenbettergui.evenbetterhud.armor.netherite": "Netherite",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedNetherite": "Netherite (Enchanted)",
         "rpo.evenbettergui.evenbetterhud.armor.chainmail": "Chainmail",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedChainmail": "Chainmail (Enchanted)",
         "rpo.evenbettergui.evenbetterhud.armor.leather": "Leather",
+        "rpo.evenbettergui.evenbetterhud.armor.enchantedLeather": "Leather (Enchanted)",
 
-        "rpo.evenbettergui.evenbetterhud.enchantedArmor": "Enchanted Armor",
-        "rpo.evenbettergui.evenbetterhud.enchantedArmor.tooltip": "Toggle enchanted armor bar §7(works with any selected armor)",
 
         "rpo.evenbettergui.evenbetterhud.prideHearts": "Pride hearts",
         "rpo.evenbettergui.evenbetterhud.prideHearts.tooltip": "Enable & select hearts in the style of pride flags",
@@ -96,7 +94,7 @@
         "rpo.evenbettergui.evenbetterhud.prideHearts.intersex": "Intersex",
         "rpo.evenbettergui.evenbetterhud.prideHearts.asexual": "Asexual",
         "rpo.evenbettergui.evenbetterhud.prideHearts.aromantic": "Aromantic",
-        "rpo.evenbettergui.evenbetterhud.prideHearts.aroace": "Aromatic & Aseuxal",
+        "rpo.evenbettergui.evenbetterhud.prideHearts.aroace": "Aromantic & Aseuxal",
 
         "rpo.evenbettergui.evenbetterhud.crosshair": "Crosshair",
         "rpo.evenbettergui.evenbetterhud.crosshair.tooltip": "Change the crosshair",
@@ -120,11 +118,14 @@
         "rpo.evenbettergui.evenbetterhud.hunger.sweetBerries": "Sweet Berries",
         "rpo.evenbettergui.evenbetterhud.hunger.cookie": "Cookies",
         "rpo.evenbettergui.evenbetterhud.hunger.cake": "Cakes",
-        "rpo.evenbettergui.evenbetterhud.hunger.apple": "Apple",
-        "rpo.evenbettergui.evenbetterhud.hunger.goldenApple": "Golden Apple",
-        "rpo.evenbettergui.evenbetterhud.hunger.godApple": "God Apple [Animated]",
+        "rpo.evenbettergui.evenbetterhud.hunger.apple": "Apples",
+        "rpo.evenbettergui.evenbetterhud.hunger.goldenApple": "Golden Apples",
+        "rpo.evenbettergui.evenbetterhud.hunger.godApple": "God Apples [Animated]",
         "rpo.evenbettergui.evenbetterhud.hunger.tropicalFish": "Tropical Fish",
         "rpo.evenbettergui.evenbetterhud.hunger.clayBalls": "Clay Balls",
+
+        "rpo.evenbettergui.evenbetterhud.rainbowXP": "§cR§6a§ei§an§bb§1o§5w §fXP Bar",
+        "rpo.evenbettergui.evenbetterhud.rainbowXP.tooltip": "Enable/Disbale the §cR§6a§ei§an§bb§1o§5w §fxp bar",
         
 
     "rpo.evenbettergui.misc": "Mods & Misc.",
@@ -148,15 +149,15 @@
         "rpo.evenbettergui.misc.simpleVoiceChat":  "Simple Voice Chat Support",
         "rpo.evenbettergui.misc.simpleVoiceChat.tooltip":  "Toggle Simple Voice Chat support §4[Requires Simple Voice Chat]",
 
-        "rpo.evenbettergui.misc.customShulkerbox":  "Custom shulker box GUIs",
+        "rpo.evenbettergui.misc.customShulkerbox":  "Custom Shulker Box GUIs",
         "rpo.evenbettergui.misc.customShulkerbox.tooltip":  "Toggle custom shulker box GUIs §4[Requires OptiGUI & OptiGUI Support set to True]",
 
-        "rpo.evenbettergui.misc.customEnderchest":  "Custom ender chest GUI",
+        "rpo.evenbettergui.misc.customEnderchest":  "Custom Ender Chest GUI",
         "rpo.evenbettergui.misc.customEnderchest.tooltip":  "Toggle custom ender chest GUI §4[Requires OptiGUI & OptiGUI Support set to True]",
 
-        "rpo.evenbettergui.misc.customChest":  "Custom chest GUIs",
+        "rpo.evenbettergui.misc.customChest":  "Custom Chest GUIs",
         "rpo.evenbettergui.misc.customChest.tooltip":  "Toggle custom chest GUIs §4[Requires OptiGUI & OptiGUI Support set to True]",
 
-        "rpo.evenbettergui.misc.customBarrel":  "Custom barrel GUI",
+        "rpo.evenbettergui.misc.customBarrel":  "Custom Barrel GUI",
         "rpo.evenbettergui.misc.customBarrel.tooltip":  "Toggle custom barrel GUI §4[Requires OptiGUI & OptiGUI Support set to True]"
 }

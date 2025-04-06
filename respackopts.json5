@@ -10,14 +10,13 @@
       'tooltipBackground': ["dark", "oled", "light", "lightish", "clear"]
     },
     'style': {
+      'enchantmentGlint': true,
       'hotbarSlot': false,
       'fishBuckets': false,
       'enchantedBooks': false
     },
     'evenbetterhud': {
-      'enabled': true,
-      'armor': ["iron", "gold", "diamond", "netherite", "chainmail", "leather"],
-      'enchantedArmor': false,
+      'armor': ["iron", "enchantedIron", "gold", "enchantedGold", "diamond", "enchantedDiamond", "netherite", "enchantedNetherite", "chainmail", "enchantedChainmail", "leather", "enchantedLeather"],
       'prideHearts': ["off", "progress", "lesbian", "gay", "bisexual", "transgender", "intersex", "asexual", "aromantic", "aroace"],
       'crosshair': ["smallish", "smaller", "dot", "circle", "circleDot", "square", "squareDot", "angled", "heart", "arrow", "vanilla"],
       'hunger': ["glowBerries", "sweetBerries", "cookie", "cake", "apple", "goldenApple", "godApple", "tropicalFish", "clayBalls"],

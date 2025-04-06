@@ -1,7 +1,6 @@
 {
-    "condition": "version('minecraft', '<=1.21.3')",
+    "condition": "!style.hotbarSlot",
     fallbacks: [
-        "assets/minecraft/textures/gui/sprites/container/selection_color/slot_highlight_back.png",
         "assets/minecraft/textures/gui/sprites/container/selection_color/green.png",
         "assets/minecraft/textures/gui/sprites/container/selection_color/lime.png",
         "assets/minecraft/textures/gui/sprites/container/selection_color/aqua.png",
