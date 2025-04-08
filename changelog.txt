@@ -1,5 +1,35 @@
-EvenBetterGUI Version 1.2.0 - for 1.20.3-1.21.5 [06/04/2025]
-Description: A smaller release focused more on bug fixing, fixing issues around Respackopts, added a custom enchantment glint.
+EvenBetterGUI Changelog - Please note this is not extensive and will miss small texture fixes/changes.
+Check for before/after imagery at https://ebg.argil.dev
+
+EvenBetterGUI Version 1.3.0 - for 1.20.3 - 1.21.5 [08/04/2025]
+Description: Cooked foods; added cooked meats to the hunder bar options, updated most of the potion/beacon status effect textures and more!
+Detailed change log for version 1.3.0: 
+
+[Additions]
+  - Added 7 new varients to the hunger bar options!!
+    - Added Steak, Cooked Mutton, Cooked Porkchop, Cooked Cod, Cooked Salmon, Pumpkin pie and Bananas to the hunger bar options through respackopts [mod]!!!
+  - Updated clearer enchanted book textures and animations
+    - Now are more defined and clear as well as all the animations are much faster and more often
+  - Added potion/beacon status effect textures.
+    - Not all are added newer textures like the ones added in 1.21 are not updated, yet. 
+  - Updated Wither heart textures to be considerably more clear!
+  - Updated Smithing table texture 
+    - The hammer is now considerably darker and more like the one on the side of the block texture
+
+[Removals]
+  - N/A
+
+[Fixes]
+  - Fixed changelog.txt (Now actually says the right date and versions everywhere whoops)
+  - Fixed some clearer enchanted book textures that had missing pixels and wrong colors
+  - Pack format default is now set to 22, the min exclusive was set to 22 before but the default wasn't
+  - Fixed some weird wording in the respackopts config screen
+
+---------------------------------------------------------------------------------------------------
+
+[Previous Versions]
+[Last Previous Version: 1.2.0]
+[v1.2.0 - 06/04/2025]
 Detailed change log for version 1.2.0: 
 [Additions]
   - Added custom enchantment glint for icons and entities
@@ -16,78 +46,74 @@ Detailed change log for version 1.2.0:
     - Added rainbow xp tooltip
     - Turned some things from singular to plural
 
-[Previous Versions]
+[v1.1.0 - 02/04/2025]
+Detailed change log for version 1.1.0: 
+[Additions]
+  - Added 5 new hunger varients
+    - Added Apple, Golden Apple, Enchanted Golden Apple, Tropical Fish and Clay Balls to the hunger bar selector through Respackopts [Mod]
+    - All also have AppleSkin support
+  - Added colored fish buckets for Axolotls and Tropical fish, for 1.21.5 as it uses new features and needs Respackopts [Mod] so you can enable it
+    - Doesn't support baby axolotls, small or large cod and salmon (yet)
+  - Added jump bar when using horses, donkeys, mules, camels. (Oops just forgot about this I guess)
+  - Added custom enchantment book textures required you to be in 1.21.5 and needs Respackopts [Mod] so you can enable it
+    - Adds 42 unique textures for each enchantment (6 are animated!)
+  - Added social reporting screen textures (another oopsie)
 
-  [Last Previous Version: 1.1.0]
+[Removals]
+  - Removed styled hotbar selectors [instead im focusing on adding more highlight colors in a future update]
 
-    [v1.0.1 - 02/04/2025]
-    Detailed change log for version 1.1.0: 
-    [Additions]
-      - Added 5 new hunger varients
-        - Added Apple, Golden Apple, Enchanted Golden Apple, Tropical Fish and Clay Balls to the hunger bar selector through Respackopts [Mod]
-        - All also have AppleSkin support
-      - Added colored fish buckets for Axolotls and Tropical fish, for 1.21.5 as it uses new features and needs Respackopts [Mod] so you can enable it
-        - Doesn't support baby axolotls, small or large cod and salmon (yet)
-      - Added jump bar when using horses, donkeys, mules, camels. (Oops just forgot about this I guess)
-      - Added custom enchantment book textures required you to be in 1.21.5 and needs Respackopts [Mod] so you can enable it
-        - Adds 42 unique textures for each enchantment (6 are animated!)
-      - Added social reporting screen textures (another oopsie)
+[Fixes]
+  - Fixed heart textures
+    - Frozen hearts, extra hearts, and vehicle hearts.
+  - Fixed respackopts.json5 having incorrect entry names that were not in camelCase 
+    - This should help solve some unexpected issues
+  - Pack format change: 29 -> 22
+    - This allows people using 1.20.4 to apply the pack without that annoying "this is for older/newer version" screen
+    - This was a mistake that I missed before full release
 
-    [Removals]
-      - Removed styled hotbar selectors [instead im focusing on adding more highlight colors in a future update]
+[v1.0.1 - 30/03/2025]
+Detailed change log for version 1.0.1: 
+[Fixes]
+  - Removed/Fixed the text in the Respackopts [Mod] config screen saying that you should reload if the settings don't apply correctly. 
+    - Instead if you experience that problem please make an issue with your mod list at https://github.com/ArgilRants/EvenBetterGUI/issues
+    - If you are using ModernFix [Mod] please disable `mixin.perf.dedicated_reload_executor` in the config
+  - Changed the subtitles in the option catagories to be more similar!
+  - Fixed some mistakes in the tooltips and option names!
 
-    [Fixes]
-      - Fixed heart textures
-        - Frozen hearts, extra hearts, and vehicle hearts.
-      - Fixed respackopts.json5 having incorrect entry names that were not in camelCase 
-        - This should help solve some unexpected issues
-      - Pack format change: 29 -> 22
-        - This allows people using 1.20.4 to apply the pack without that annoying "this is for older/newer version" screen
-        - This was a mistake that I missed before full release
+[v1.0.0 - 29/03/2025]
+Detailed change log for version 1.0.0: 
+[Vanilla Changes]
+  - Changed all vanilla GUI textures & sprites
+    - Added options for hotbar theme colors through Respackopts [Mod]
+    - Added options for highlight colors (Hotbar selector and more) through Respackopts [Mod]
+    - Added options for tooltip background through Respackopts [Mod]
+    - Added Hotbar-style gui slot highlight option for 1.21.4+ clients only through Respackopts [Mod]
+    - Added styled hotbar selector options through Respackopts [Mod]
+    - Added EvenBetterHud with options through Respackopts [Mod]
 
-    [v1.0.1 - 30/03/2025]
-    Detailed change log for version 1.0.1: 
-    [Fixes]
-      - Removed/Fixed the text in the Respackopts [Mod] config screen saying that you should reload if the settings don't apply correctly. 
-        - Instead if you experience that problem please make an issue with your mod list at https://github.com/ArgilRants/EvenBetterGUI/issues
-        - If you are using ModernFix [Mod] please disable `mixin.perf.dedicated_reload_executor` in the config
-      - Changed the subtitles in the option catagories to be more similar!
-      - Fixed some mistakes in the tooltips and option names!
+[Mod Changes]
+  - OptiGUI [Mod] support
+    - Added toggle for OptiGUI support through Respackopts [Mod]
+    - Added custom shulker box GUIs
+      - Added toggle for custom shulker box GUIs through Respackopts [Mod]
+    - Added custom ender chest GUI
+      - Added toggle for custom ender chest GUI through Respackopts [Mod]
+    - Added custom barrel GUI
+      - Added toggle for custom barrel GUI through Respackopts [Mod]
 
-    [v1.0.0 - 29/03/2025]
-    Detailed change log for version 1.0.0: 
-    [Vanilla Changes]
-      - Changed all vanilla GUI textures & sprites
-        - Added options for hotbar theme colors through Respackopts [Mod]
-        - Added options for highlight colors (Hotbar selector and more) through Respackopts [Mod]
-        - Added options for tooltip background through Respackopts [Mod]
-        - Added Hotbar-style gui slot highlight option for 1.21.4+ clients only through Respackopts [Mod]
-        - Added styled hotbar selector options through Respackopts [Mod]
-        - Added EvenBetterHud with options through Respackopts [Mod]
+  - ModMenu [Mod] support
+    - Added toggle for ModMenu support through Respackopts [Mod]
 
-    [Mod Changes]
-      - OptiGUI [Mod] support
-        - Added toggle for OptiGUI support through Respackopts [Mod]
-        - Added custom shulker box GUIs
-          - Added toggle for custom shulker box GUIs through Respackopts [Mod]
-        - Added custom ender chest GUI
-          - Added toggle for custom ender chest GUI through Respackopts [Mod]
-        - Added custom barrel GUI
-          - Added toggle for custom barrel GUI through Respackopts [Mod]
+  - Axiom [Mod] support
+    - Added toggle for Axiom support through Respackopts [Mod]
+    - Supports new Axiom features like the color picker and gradient helper
 
-      - ModMenu [Mod] support
-        - Added toggle for ModMenu support through Respackopts [Mod]
+  - Flashback [Mod] support
+    - Added toggle for Flashback support through Respackopts [Mod]
 
-      - Axiom [Mod] support
-        - Added toggle for Axiom support through Respackopts [Mod]
-        - Supports new Axiom features like the color picker and gradient helper
+  - AppleSkin [Mod] support
+    - Added toggle for AppleSkin support through Respackopts [Mod]
+    - Supports all different selected food types for the hunger bar
 
-      - Flashback [Mod] support
-        - Added toggle for Flashback support through Respackopts [Mod]
-
-      - AppleSkin [Mod] support
-        - Added toggle for AppleSkin support through Respackopts [Mod]
-        - Supports all different selected food types for the hunger bar
-
-      - Simple Voice Chat [Mod] support
-        - Added toggle for Simple Voice Chat support through Respackopts [Mod]
+  - Simple Voice Chat [Mod] support
+    - Added toggle for Simple Voice Chat support through Respackopts [Mod]

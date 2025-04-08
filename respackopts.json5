@@ -11,6 +11,7 @@
     },
     'style': {
       'enchantmentGlint': true,
+      'statusTextures': true,
       'hotbarSlot': false,
       'fishBuckets': false,
       'enchantedBooks': false
@@ -19,7 +20,7 @@
       'armor': ["iron", "enchantedIron", "gold", "enchantedGold", "diamond", "enchantedDiamond", "netherite", "enchantedNetherite", "chainmail", "enchantedChainmail", "leather", "enchantedLeather"],
       'prideHearts': ["off", "progress", "lesbian", "gay", "bisexual", "transgender", "intersex", "asexual", "aromantic", "aroace"],
       'crosshair': ["smallish", "smaller", "dot", "circle", "circleDot", "square", "squareDot", "angled", "heart", "arrow", "vanilla"],
-      'hunger': ["glowBerries", "sweetBerries", "cookie", "cake", "apple", "goldenApple", "godApple", "tropicalFish", "clayBalls"],
+      'hunger': ["glowBerries", "sweetBerries", "cookie", "cake", "apple", "goldenApple", "godApple", "tropicalFish", "steak", "cookedMutton", "cookedPorkchop", "cookedCod", "cookedSalmon", "pumpkinPie", "banana", "clayBalls"],
       'rainbowXP': false
     },
     'misc':{

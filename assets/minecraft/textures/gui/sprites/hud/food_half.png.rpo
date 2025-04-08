@@ -8,6 +8,13 @@
         "assets/minecraft/textures/gui/sprites/hud/foods/golden_apple/food_half.png",
         "assets/minecraft/textures/gui/sprites/hud/foods/god_apple/food_half.png",
         "assets/minecraft/textures/gui/sprites/hud/foods/tropical_fish/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/steak/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cooked_mutton/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cooked_porkchop/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cooked_cod/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/cooked_salmon/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/pumpkin_pie/food_half.png",
+        "assets/minecraft/textures/gui/sprites/hud/foods/banana/food_half.png",
         "assets/minecraft/textures/gui/sprites/hud/foods/clay_balls/food_half.png"
     ]
 }

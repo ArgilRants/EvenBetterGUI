@@ -45,10 +45,13 @@
         "rpo.evenbettergui.theme.tooltipBackground.clear": "Clear",
 
     "rpo.evenbettergui.style": "Style",
-    "rpo.evenbettergui.style.tooltip": "Change the style of the slot highlight, add custom textured enchanted books [1.21.5+ only]",
+    "rpo.evenbettergui.style.tooltip": "Change the style of the slot highlight, toggle the enchantment glint and more!",
 
         "rpo.evenbettergui.style.enchantmentGlint": "Custom Enchantment Glint",
         "rpo.evenbettergui.style.enchantmentGlint.tooltip": "Updates the enchantment glint to be cleaner and more unobtrusive",
+
+        "rpo.evenbettergui.style.statusTextures": "Updated Potion/Beacon Effect Textures",
+        "rpo.evenbettergui.style.statusTextures.tooltip": "Updates the potion/beacon effect textures to be even better!",
 
         "rpo.evenbettergui.style.hotbarSlot": "Hotbar-Style GUI Slot Highlight §4[1.21.4+]",
         "rpo.evenbettergui.style.hotbarSlot.tooltip": "Gives the GUI slot highlight the same texture as the hotbar selector §7(supports highlight colors) §4[1.21.4+]",
@@ -122,6 +125,13 @@
         "rpo.evenbettergui.evenbetterhud.hunger.goldenApple": "Golden Apples",
         "rpo.evenbettergui.evenbetterhud.hunger.godApple": "God Apples [Animated]",
         "rpo.evenbettergui.evenbetterhud.hunger.tropicalFish": "Tropical Fish",
+        "rpo.evenbettergui.evenbetterhud.hunger.steak": "Steaks",
+        "rpo.evenbettergui.evenbetterhud.hunger.cookedMutton": "Cooked Muttons",
+        "rpo.evenbettergui.evenbetterhud.hunger.cookedPorkchop": "Cooked Porkchops",
+        "rpo.evenbettergui.evenbetterhud.hunger.cookedCod": "Cooked Cods",
+        "rpo.evenbettergui.evenbetterhud.hunger.cookedSalmon": "Cooked Salmons",
+        "rpo.evenbettergui.evenbetterhud.hunger.pumpkinPie": "Pumpkin Pies",
+        "rpo.evenbettergui.evenbetterhud.hunger.banana": "Bananas",
         "rpo.evenbettergui.evenbetterhud.hunger.clayBalls": "Clay Balls",
 
         "rpo.evenbettergui.evenbetterhud.rainbowXP": "§cR§6a§ei§an§bb§1o§5w §fXP Bar",

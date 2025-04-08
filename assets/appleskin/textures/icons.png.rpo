@@ -8,6 +8,13 @@
         "assets/appleskin/textures/foods/golden_apple/icons.png",
         "assets/appleskin/textures/foods/god_apple/icons.png",
         "assets/appleskin/textures/foods/tropical_fish/icons.png",
+        "assets/appleskin/textures/foods/steak/icons.png",
+        "assets/appleskin/textures/foods/cooked_mutton/icons.png",
+        "assets/appleskin/textures/foods/cooked_porkchop/icons.png",
+        "assets/appleskin/textures/foods/cooked_cod/icons.png",
+        "assets/appleskin/textures/foods/cooked_salmon/icons.png",
+        "assets/appleskin/textures/foods/pumpkin_pie/icons.png",
+        "assets/appleskin/textures/foods/banana/icons.png",
         "assets/appleskin/textures/foods/clay_balls/icons.png"
     ]
 }
