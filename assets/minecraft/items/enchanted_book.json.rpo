@@ -1,3 +1,4 @@
 {
-    condition: "style.enchantedBooks"
+    condition: "!style.enchantedBooks",
+    fallback: "assets/minecraft/items/1.21.5/enchanted_book.json"
 }

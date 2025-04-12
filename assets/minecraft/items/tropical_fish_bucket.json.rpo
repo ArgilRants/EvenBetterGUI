@@ -1,3 +1,4 @@
 {
-    condition: "style.fishBuckets"
+    condition: "!style.fishBuckets",
+    fallback: "assets/minecraft/items/1.21.5/tropical_fish_bucket.json"
 }

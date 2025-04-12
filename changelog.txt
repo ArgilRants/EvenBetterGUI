@@ -1,8 +1,19 @@
 EvenBetterGUI Changelog - Please note this is not extensive and will miss small texture fixes/changes.
 Check for before/after imagery at https://ebg.argil.dev
 
-EvenBetterGUI Version 1.3.0 - for 1.20.3 - 1.21.5 [08/04/2025]
-Description: Cooked foods; added cooked meats to the hunder bar options, updated most of the potion/beacon status effect textures and more!
+EvenBetterGUI Version 1.3.1 - for 1.20.3 - 1.21.5 [12/04/2025]
+Description: A small version combatability fix.
+Detailed change log for version 1.3.1: 
+
+[Fixes]
+  - Fixed fish buckets and enchanted book textures from breaking in 1.21.4 and below
+    - These 1.21.5 only features are only avaliable through respackopts
+
+---------------------------------------------------------------------------------------------------
+
+[Previous Versions]
+[Last Previous Version: 1.3.0]
+[v1.3.0 - 08/04/2025]
 Detailed change log for version 1.3.0: 
 
 [Additions]
@@ -25,10 +36,6 @@ Detailed change log for version 1.3.0:
   - Pack format default is now set to 22, the min exclusive was set to 22 before but the default wasn't
   - Fixed some weird wording in the respackopts config screen
 
----------------------------------------------------------------------------------------------------
-
-[Previous Versions]
-[Last Previous Version: 1.2.0]
 [v1.2.0 - 06/04/2025]
 Detailed change log for version 1.2.0: 
 [Additions]
